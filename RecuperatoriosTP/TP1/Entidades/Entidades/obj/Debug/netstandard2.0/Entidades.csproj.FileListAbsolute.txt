@@ -1,0 +1,18 @@
+C:\Users\spalavecino\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\spalavecino\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\spalavecino\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\spalavecino\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

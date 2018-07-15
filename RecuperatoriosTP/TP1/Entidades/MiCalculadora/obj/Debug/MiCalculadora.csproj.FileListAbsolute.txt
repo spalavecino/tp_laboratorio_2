@@ -1,0 +1,220 @@
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\netstandard.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.AppContext.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Collections.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Collections.Specialized.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Console.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Data.Common.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Globalization.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.Compression.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.Pipes.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Linq.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Linq.Expressions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Linq.Parallel.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Linq.Queryable.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Http.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.NameResolution.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Ping.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Requests.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Security.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.Sockets.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Net.WebSockets.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ObjectModel.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Reflection.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Resources.Reader.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Resources.Writer.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Handles.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Claims.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.Principal.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Security.SecureString.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Text.Encoding.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.Tasks.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.Thread.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Threading.Timer.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.ValueTuple.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.XDocument.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.XPath.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe.config
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\spalavecino\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\netstandard.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.AppContext.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Collections.Concurrent.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Collections.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Collections.NonGeneric.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Collections.Specialized.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ComponentModel.TypeConverter.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Console.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Data.Common.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Contracts.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Debug.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Process.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.StackTrace.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Tools.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.TraceSource.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Diagnostics.Tracing.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Drawing.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Dynamic.Runtime.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Globalization.Calendars.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Globalization.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Globalization.Extensions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.Compression.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.FileSystem.Watcher.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.IsolatedStorage.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.MemoryMappedFiles.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.Pipes.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Linq.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Linq.Expressions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Linq.Parallel.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Linq.Queryable.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Http.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.NameResolution.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.NetworkInformation.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Ping.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Requests.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Security.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.Sockets.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.WebHeaderCollection.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.WebSockets.Client.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Net.WebSockets.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ObjectModel.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Reflection.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Reflection.Extensions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Reflection.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Resources.Reader.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Resources.ResourceManager.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Resources.Writer.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Extensions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Handles.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.InteropServices.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Numerics.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Formatters.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Json.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Runtime.Serialization.Xml.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Claims.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Csp.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.Principal.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Security.SecureString.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Text.Encoding.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Text.Encoding.Extensions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Text.RegularExpressions.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.Overlapped.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.Tasks.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.Tasks.Parallel.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.Thread.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.ThreadPool.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Threading.Timer.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.ValueTuple.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.ReaderWriter.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.XDocument.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.XmlDocument.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.XmlSerializer.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.XPath.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\System.Xml.XPath.XDocument.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe.config
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+c:\Programacion\UTN\2\PROGR Y LABORATORIO 2\TPs Mios\tp_laboratorio_2\RecuperatoriosTP\TP1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
