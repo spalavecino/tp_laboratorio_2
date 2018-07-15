@@ -27,6 +27,7 @@ namespace MiCalculadora
         {
             txtNumero1.Text = "";
             txtNumero2.Text = "";
+            lblResultado.Text = "0";
             cmbOperador.SelectedIndex = -1;
         }
 
