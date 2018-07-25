@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+using System.Data.SqlClient;
 
 namespace Entidades
 {
@@ -67,11 +69,51 @@ namespace Entidades
         #endregion
 
         #region Methods
-        public void MockCicloDeVida() { }
+        public void MockCicloDeVida() {            
+            bool paqueteEntregado = false;
+
+            while(!paqueteEntregado)
+            {
+                Thread.Sleep(2000);
+                switch (this.estado)
+                {
+                    case EEstado.Ingresado:
+                        this.estado = EEstado.EnViaje;
+                        break;
+                    case EEstado.EnViaje:
+                        this.estado = EEstado.Entregado;
+                        break;
+                    case EEstado.Entregado:
+                        try
+                        {
+                            PaqueteDAO.Insertar(this);
+                        }
+                        catch (SqlException e)
+                        {
+                            ExcepcionMock(e);
+                        }
+                        finally
+                        {
+                            paqueteEntregado = true;
+                        }
+                        break;
+                }
+
+                InformaEstado(this, null);
+            }
+        }
 
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
-            return "";
+            string str = "";
+
+            if(elemento is Paquete)
+            {
+                Paquete p = (Paquete) elemento;
+                str = String.Format("{0} para {1}\n", p.trackingID, p.direccionEntrega);
+            }
+            
+            return str;
         }
 
         public static bool operator ==(Paquete paquete1, Paquete paquete2)
@@ -86,13 +128,15 @@ namespace Entidades
 
         public override string ToString()
         {
-            return "";
+            return this.MostrarDatos(this);
         }
         #endregion
 
         #region Events
-        public delegate void DelegadoEstado();
+        public delegate void DelegadoEstado(object sender, EventArgs e);
+        public delegate void DelegadoException(Exception e);
         public event DelegadoEstado InformaEstado;
+        public event DelegadoException ExcepcionMock;
         #endregion
     }
 }
