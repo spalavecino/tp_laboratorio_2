@@ -69,12 +69,15 @@ namespace Entidades
         #endregion
 
         #region Methods
+        /// <summary>
+        /// Simula el pasaje del paquete por los distintos estados hasta ser guardado en la base de datos
+        /// </summary>
         public void MockCicloDeVida() {            
             bool paqueteEntregado = false;
 
             while(!paqueteEntregado)
             {
-                Thread.Sleep(2000);
+                Thread.Sleep(10000);
                 switch (this.estado)
                 {
                     case EEstado.Ingresado:
@@ -90,7 +93,11 @@ namespace Entidades
                         }
                         catch (SqlException e)
                         {
-                            ExcepcionMock(e);
+                            InformaExcepcion(new Exception("Se ha producido un error al intentar guardar los datos.", e));
+                        }
+                        catch(Exception e)
+                        {
+                            InformaExcepcion(new Exception("Se ha producido un error al intentar guardar los datos.", e));
                         }
                         finally
                         {
@@ -103,6 +110,11 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Devuelve un string con los datos del elemento que se le pase por parámetro
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             string str = "";
@@ -116,16 +128,32 @@ namespace Entidades
             return str;
         }
 
+        /// <summary>
+        /// Dice si dos paquetes son iguales teniendo en cuenta su trackingID
+        /// </summary>
+        /// <param name="paquete1"></param>
+        /// <param name="paquete2"></param>
+        /// <returns></returns>
         public static bool operator ==(Paquete paquete1, Paquete paquete2)
         {
             return paquete1.trackingID == paquete2.trackingID;
         }
 
+        /// <summary>
+        /// Dice si dos paquetes son distintos teniendo en cuenta su trackingID
+        /// </summary>
+        /// <param name="paquete1"></param>
+        /// <param name="paquete2"></param>
+        /// <returns></returns>
         public static bool operator !=(Paquete paquete1, Paquete paquete2)
         {
             return !(paquete1 == paquete2);
         }
 
+        /// <summary>
+        /// Devuelve en formato string los datos del objeto
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.MostrarDatos(this);
@@ -136,7 +164,7 @@ namespace Entidades
         public delegate void DelegadoEstado(object sender, EventArgs e);
         public delegate void DelegadoException(Exception e);
         public event DelegadoEstado InformaEstado;
-        public event DelegadoException ExcepcionMock;
+        public event DelegadoException InformaExcepcion;
         #endregion
     }
 }

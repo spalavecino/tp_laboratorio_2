@@ -33,6 +33,9 @@ namespace Entidades
         #endregion
 
         #region Methods
+        /// <summary>
+        /// Cerrará todos los hilos activos
+        /// </summary>
         public void FinEntregas() {
             foreach(var hilo in this.mockPaquetes)
             {
@@ -43,6 +46,11 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Devuelve un string con los datos de todos los paquetes del correo dado
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             string str = "";
@@ -60,6 +68,12 @@ namespace Entidades
             return str;
         }
 
+        /// <summary>
+        /// Agrega un paquete a un correo luego de validar que su tracking-ID no se encuentre repetido
+        /// </summary>
+        /// <param name="c"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static Correo operator +(Correo c, Paquete p)
         {
             foreach(var paquete in c.paquetes)

@@ -13,7 +13,7 @@ namespace Entidades
         #region Constructors
         static PaqueteDAO()
         {
-            _conexion = new SqlConnection("Data Source=LAPTOP-A7RGHQPV\\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True");
+            _conexion = new SqlConnection("iData Source=LAPTOP-A7RGHQPV\\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True");
             _comando = new SqlCommand();
             _comando.CommandType = System.Data.CommandType.Text;
             _comando.Connection = _conexion;
@@ -21,6 +21,11 @@ namespace Entidades
         #endregion
 
         #region Methods
+        /// <summary>
+        /// Ingresa un paquete en la base de datos
+        /// </summary>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static bool Insertar(Paquete p)
         {
             bool successTransaction = true;

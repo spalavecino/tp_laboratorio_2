@@ -27,6 +27,7 @@ namespace MainCorreo
             
             Paquete paquete = new Paquete(txtDireccion.Text, maskedTextBox1.Text);
             paquete.InformaEstado += paq_InformaEstado;
+            paquete.InformaExcepcion += paqInformaExcepcion;
 
             try
             {
@@ -41,6 +42,9 @@ namespace MainCorreo
             ActualizarEstados();
         }
 
+        /// <summary>
+        /// Reinicia las listas de paquetes en cada estado y vuelve a reasignarlos
+        /// </summary>
         private void ActualizarEstados()
         {
             lstEstadoEntregado.Items.Clear();
@@ -64,6 +68,11 @@ namespace MainCorreo
             }
         }
 
+        /// <summary>
+        /// Actualiza el estado de los paquetes
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void paq_InformaEstado(object sender, EventArgs e)
         {
             if (this.InvokeRequired)
@@ -77,6 +86,21 @@ namespace MainCorreo
             }                
         }
 
+        /// <summary>
+        /// Muestra un mensaje al capturar el evento de falla al ingresar datos en la base
+        /// </summary>
+        /// <param name="e"></param>
+        private void paqInformaExcepcion(Exception e)
+        {
+            MessageBox.Show(e.Message, "Error al persistir datos");
+            Console.WriteLine(e.Message + " -> Error que lo generó: " + e.InnerException.InnerException);
+        }
+
+        /// <summary>
+        /// Muestra los datos del paquete seleccionado en estado "Entregado"
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="elemento"></param>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             if(elemento != null)
