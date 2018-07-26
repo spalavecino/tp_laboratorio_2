@@ -22,7 +22,8 @@ namespace Entidades
         }
 
         /// <summary>
-        /// 
+        /// Realiza la operacion que recibe por parametro, entre los numeros tambien recibidos.
+        /// Previamente valida el operador, si no es valido, toma el operador +
         /// </summary>
         /// <param name="num1"></param>
         /// <param name="num2"></param>

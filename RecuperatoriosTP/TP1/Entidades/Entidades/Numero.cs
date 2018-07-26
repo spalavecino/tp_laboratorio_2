@@ -96,18 +96,42 @@ namespace Entidades
             return Convert.ToString((int)numero, 2);
         }
 
+        /// <summary>
+        /// Suma dos objetos de tipo Numero
+        /// </summary>
+        /// <param name="n1"></param>
+        /// <param name="n2"></param>
+        /// <returns></returns>
         public static double operator +(Numero n1, Numero n2) {
             return n1.numero + n2.numero;
         }
 
+        /// <summary>
+        /// Resta dos objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1"></param>
+        /// <param name="n2"></param>
+        /// <returns></returns>
         public static double operator -(Numero n1, Numero n2) {
             return n1.numero - n2.numero;
         }
 
+        /// <summary>
+        /// Multiplica dos objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1"></param>
+        /// <param name="n2"></param>
+        /// <returns></returns>
         public static double operator *(Numero n1, Numero n2) {
             return n1.numero * n2.numero;
         }
 
+        /// <summary>
+        /// Divide dos objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1"></param>
+        /// <param name="n2"></param>
+        /// <returns></returns>
         public static double operator /(Numero n1, Numero n2) {
             return n1.numero / n2.numero;
         }

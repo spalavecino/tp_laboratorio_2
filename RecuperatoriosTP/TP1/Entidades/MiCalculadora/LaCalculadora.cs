@@ -23,6 +23,9 @@ namespace MiCalculadora
             this.Limpiar();
         }
 
+        /// <summary>
+        /// Limpia los campos del formulario/calculadora
+        /// </summary>
         private void Limpiar()
         {
             txtNumero1.Text = "";
@@ -31,6 +34,13 @@ namespace MiCalculadora
             cmbOperador.SelectedIndex = -1;
         }
 
+        /// <summary>
+        /// Realiza la operacion seleccionada, entre los numeros ingresados
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
             Numero num1 = new Numero(numero1);
