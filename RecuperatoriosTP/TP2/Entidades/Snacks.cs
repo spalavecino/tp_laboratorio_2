@@ -23,6 +23,10 @@ namespace Entidades_2017
             }
         }
 
+        /// <summary>
+        /// Devuelve un string con las cualidades del objeto Snacks, no puede ser sobreescrito
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

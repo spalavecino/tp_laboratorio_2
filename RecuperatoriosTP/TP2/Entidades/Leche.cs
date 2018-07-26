@@ -42,6 +42,10 @@ namespace Entidades_2017
             }
         }
 
+        /// <summary>
+        /// Devuelve un string con los datos del objeto Leche
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

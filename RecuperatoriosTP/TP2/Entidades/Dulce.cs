@@ -22,6 +22,10 @@ namespace Entidades_2017
             }
         }
 
+        /// <summary>
+        /// Devuelve un string con los datos del objeto Dulce
+        /// </summary>
+        /// <returns></returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

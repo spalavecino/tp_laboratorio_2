@@ -33,6 +33,10 @@ namespace Entidades_2017
             return (string) this;
         }
 
+        /// <summary>
+        /// Convierte un Producto en String
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();
